@@ -1,0 +1,9 @@
+.hero-banner {
+    background: url('../../assets/images/hero-background.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40rem;
+}
+.logo {
+    max-width: 150px;
+}
